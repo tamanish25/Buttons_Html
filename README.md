@@ -51,12 +51,4 @@
     font-size: 15px;
    
     }
-</style>
-<div class="fb-like" 
-       data-href="https://www.your-domain.com/your-page.html" 
-       data-width=""
-       data-layout="standard" 
-       data-action="like" 
-       data-size="small"  
-       data-share="true">
-  </div>
+
